@@ -1,0 +1,24 @@
+{
+  "name": "faiNumber-JS",
+  "version": "1.0.0.f",
+  "description": "A numerical library for Javascript.",
+  "main": "./faiNumber/faiNumber-include-all.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "directories": {
+       "lib": "./faiNumber"
+   },
+
+  "homepage": "https://lib.fai.host/js/faiNumber/v1/",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinhng86/faiNumber-JS"
+  },
+
+  "author": "Khang Hoang Nguyen <kevin@fai.host> (https://fai.host)",
+  "license": "MIT"
+}
